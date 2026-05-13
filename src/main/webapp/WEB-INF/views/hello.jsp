@@ -7,10 +7,10 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
+<head>
+    <title>Xin chao Spring MVC</title>
+</head>
+<body>
+<h1>Xin chao the gioi</h1>
+</body>
 </html>
